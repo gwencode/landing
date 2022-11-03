@@ -1,0 +1,25 @@
+.footer {
+  background-color: #2C2B2B;
+  margin: 0 auto;
+  height: 30vh;
+  width: 100%;
+}
+
+.icons {
+  display: flex;
+  color: #1EDD88;
+  font-size: 32px;
+  width:15%;
+  align-content: center;
+  justify-content: space-around;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.footer-text {
+  color: rgba(180,180,180,1)
+}
+
+#heart {
+  color: red;
+}

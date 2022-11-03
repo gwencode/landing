@@ -1,0 +1,82 @@
+/* Button medium */
+
+.btn-medium {
+  color: #999999;
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 0.6;
+  display: inline-block;
+  margin: 16px 8px;
+}
+
+.btn-medium:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #999999;
+}
+
+/* Button threehouse */
+
+.btn-treehouse {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: background 0.3s ease;
+  display: inline-block;
+  margin: 16px 8px;
+}
+
+.btn-treehouse:hover {
+  opacity: 1;
+  background: #3ac162;
+  text-decoration: none;
+  color: white;
+}
+
+  /* Your button CSS file */
+
+.btn-primary-blue {
+  color: white;
+  background: #043676;
+  border: 1px solid #043676;
+  padding: 15px 25px;
+  font-weight: bold;
+  border-radius: 25px;
+  display: inline-block;
+  margin: 16px 8px;
+  transition: 0.3s;
+}
+
+.btn-primary-blue:hover {
+  color: white;
+  background: #021B3B;
+  border: 1px solid #021B3B;
+  transition: 0.3s;
+  /* padding: 17px 27px; */
+  /* transform: scale(1.06); */
+  transform: translateY(-3px);
+}
+
+.btn-primary-red {
+  color: white;
+  background: #D62828;
+  border: 1px solid #D62828;
+  padding: 15px 25px;
+  font-weight: bold;
+  border-radius: 50px;
+  display: inline-block;
+  margin: 16px 8px;
+  transition: 0.3s;
+}
+
+.btn-primary-red:hover {
+  color: white;
+  background: #BE2323;
+  border: 1px solid #BE2323;
+  transition: 0.3s;
+  transform: translateY(-3px);
+}
